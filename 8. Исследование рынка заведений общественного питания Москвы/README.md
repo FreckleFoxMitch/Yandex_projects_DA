@@ -17,3 +17,7 @@
 ## Используемые библиотеки
 
 *pandas*, *numpy*, *io*, *requests*, *matplotlib*, *seaborn*, *plotly*
+
+## Статус проекта
+
+Завершен
