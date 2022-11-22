@@ -16,3 +16,7 @@
 ## Используемые библиотеки
 
 *pandas*, *numpy*, *os*, *matplotlib*, *seaborn*, *plotly*, *datetime*, *math*, *scipy*
+
+## Статус проекта
+
+Завершен
