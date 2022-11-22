@@ -22,3 +22,7 @@
 ## Используемые библиотеки
 
 *pandas*, *numpy*, *matplotlib*, *seaborn*, *math*, *scipy*
+
+## Статус проекта
+
+Завершен
