@@ -31,3 +31,7 @@ costs_short:
 ## Используемые библиотеки
 
 *pandas*, *numpy*, *matplotlib*, *seaborn*, *datetime*
+
+## Статус проекта
+
+Завершен
