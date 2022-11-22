@@ -52,3 +52,7 @@ tariffs:
 ## Используемые библиотеки
 
 *pandas*, *numpy*, *matplotlib*, *math*, *scipy*, *datetime*
+
+## Статус проекта
+
+Завершен
