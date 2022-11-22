@@ -28,3 +28,7 @@
 ## Используемые библиотеки
 
 *pandas*, *matplotlib*, *seaborn*, *os*, *sklearn*, *scipy*, *itertools*
+
+## Статус проекта
+
+Завершен
