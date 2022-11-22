@@ -42,3 +42,7 @@ user_source:
 ## Используемые библиотеки
 
 *pandas*, *matplotlib*, *seaborn*, *numpy*, *scipy*, *math*, *statsmodels*, *os*
+
+## Статус проекта
+
+Завершен
