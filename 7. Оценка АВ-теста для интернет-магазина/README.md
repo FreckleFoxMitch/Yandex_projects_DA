@@ -33,3 +33,7 @@ visitors:
 ## Используемые библиотеки
 
 *pandas*, *numpy*, *matplotlib*, *seaborn*, *datetime*, *scipy*
+
+## Статус проекта
+
+Завершен
