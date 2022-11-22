@@ -40,3 +40,7 @@ final_ab_participants:
 ## Используемые библиотеки
 
 *pandas*, *matplotlib*, *seaborn*, *plotly*, *numpy*, *scipy*, *math*, *statsmodels*, *os*
+
+## Статус проекта
+
+Завершен
